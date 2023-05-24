@@ -7,7 +7,7 @@
   "assets": [
     "assets/**/*"
   ],
-  "whitelistedNonPeerDependencies": [
+  "allowedNonPeerDependencies": [
     "bootstrap-daterangepicker-plus"
   ]
 }
